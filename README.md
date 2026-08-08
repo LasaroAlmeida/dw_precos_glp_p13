@@ -8,6 +8,6 @@ O projeto tem como objetivo praticar a modelagem dimensional e a construção de
 
 - uv
 - docker
-- postgres
+- DuckDb
 - prefect
 - python
