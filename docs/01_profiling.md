@@ -1,0 +1,2 @@
+# Entendimento dos dados
+
