@@ -1,0 +1,12 @@
+# Configuração raiz do Declarative Automation Bundle (Databricks Asset Bundle).
+bundle:
+  name: dw-precos-glp-p13
+
+# Jobs e pipelines serão declarados em arquivos YAML separados.
+include:
+  - resources/*.yml
+
+targets:
+  dev:
+    default: true
+    mode: development
